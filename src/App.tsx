@@ -6,8 +6,8 @@ function App() {
     <Track
       title="Black Out Days"
       subtitle="Phantogram"
-      trackPath="public\assets\Phantogram - Black Out Days.mp3"
-      imageSrc="public\assets\phantogram-voices.jpg"
+      trackPath="assets\Phantogram - Black Out Days.mp3"
+      imageSrc="assets\phantogram-voices.jpg"
     />
   );
 }

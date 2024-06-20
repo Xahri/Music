@@ -38,7 +38,7 @@ export const Track = observer(
                 theme="dark"
                 visibility={"always"}
               >
-                <img src={"public/assets/wave.png"} alt="Play/Pause"></img>
+                <img src={"assets/wave.png"} alt="Play/Pause"></img>
               </Image.Overlay>
             )}
           </Image>
